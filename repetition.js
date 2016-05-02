@@ -57,7 +57,7 @@ console.log("Den andra studenten heter " + anotherStudent["name"]);
 
 // Objekt i arrayer
 
-var students = {student, anotherStudent};
+var students = [student, anotherStudent];
 
 console.log("Första studenten i array: " + students[0].name);
 console.log("Andra studenten i array: " + students[1]["name"]);
