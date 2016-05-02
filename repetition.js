@@ -48,7 +48,7 @@ student.name = "Anton";
 student.favoriteTeam = "AIK";
 
 //metod 3
-var anotherStudent = new Object{};
+var anotherStudent = new Object();
 anotherStudent["name"] = "Oskar";
 anotherStudent["favoriteTeam"] = "HIF";
 
