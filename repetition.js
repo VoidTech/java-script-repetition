@@ -22,3 +22,10 @@ months[1] = "Februari";
 months[2] = "Mars";
 months[3] = "April";
 months[4] = "May";
+
+var favoriteThings = [1997, "Somthing wars 64", true, "IT", 3.14159];
+console.log("Exempel 4. Jag har " + favoriteThings.length + " favorit saker");
+
+favoriteThings.push("Teaching");
+
+console.log(favoriteThings);
