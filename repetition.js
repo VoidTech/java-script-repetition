@@ -73,3 +73,6 @@ var superMario64  = {title:"Super Mario 64",countries:["Sverige","USA"],characte
 console.log("Andra landet är " + superMario64["countries"][1]);
 
 // Objekt i objekt
+
+var club = {name:"PSG",playedInChampionsLeague:true, founded:"1951"};
+var soccerPlayer = {name:"ZLatan", orginalClub:{name:"Malmö FF",playedInChampionsLeague:true,founded:"1901"}};
