@@ -32,4 +32,9 @@ console.log(favoriteThings);
 
 //Objekt
 
-
+//Exempel 7
+var car = {color: "ful", hasAWheel: true, numberOfSeats: 4};
+// Attribut(key) och ett värde (value)
+// color är attribut/key
+// "ful" är värdet
+console.log();
