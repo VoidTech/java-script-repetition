@@ -29,3 +29,7 @@ console.log("Exempel 4. Jag har " + favoriteThings.length + " favorit saker");
 favoriteThings.push("Teaching");
 
 console.log(favoriteThings);
+
+//Objekt
+
+
