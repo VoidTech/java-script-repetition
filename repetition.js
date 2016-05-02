@@ -43,7 +43,7 @@ var car = {color: "ful", hasAWheel: true, numberOfSeats: 4};
 var computer = {color: "grey", brand: "Mac"};
 
 //metod 2
-var student = {};
+var student = ()
 student.name = "Anton";
 student.favoriteTeam = "AIK";
 
